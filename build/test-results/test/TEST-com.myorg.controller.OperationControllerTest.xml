@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.myorg.controller.OperationControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:09:06" hostname="DESKTOP-20KE348" time="0.107">
+  <properties/>
+  <testcase name="test test" classname="com.myorg.controller.OperationControllerTest" time="0.085"/>
+  <testcase name="test executeTransfer throws error" classname="com.myorg.controller.OperationControllerTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

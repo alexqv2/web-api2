@@ -1,0 +1,3 @@
+ð11:09:06.547 [Test worker] INFO com.myorg.service.DefaultOperationService - Start processing request: TransferRequest(transferId=1, sourceAccountId=1001, destinationAccountId=2001, amount=1000, operationResult=null, operationMessage=null)
+l11:09:06.550 [Test worker] INFO com.myorg.service.DefaultOperationService - Querying account with id: 1001
+l11:09:06.554 [Test worker] INFO com.myorg.service.DefaultOperationService - Querying account with id: 2001

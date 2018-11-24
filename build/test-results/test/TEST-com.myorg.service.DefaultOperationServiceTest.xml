@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.myorg.service.DefaultOperationServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-17T16:09:06" hostname="DESKTOP-20KE348" time="0.061">
+  <properties/>
+  <testcase name="test transfer" classname="com.myorg.service.DefaultOperationServiceTest" time="0.061"/>
+  <system-out><![CDATA[11:09:06.547 [Test worker] INFO com.myorg.service.DefaultOperationService - Start processing request: TransferRequest(transferId=1, sourceAccountId=1001, destinationAccountId=2001, amount=1000, operationResult=null, operationMessage=null)
+11:09:06.550 [Test worker] INFO com.myorg.service.DefaultOperationService - Querying account with id: 1001
+11:09:06.554 [Test worker] INFO com.myorg.service.DefaultOperationService - Querying account with id: 2001
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
